@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.log-in{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+.btn-success{
+  background-color: green;
+  width: 12rem;
+  height: 1rem;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  margin: 1rem;
+}
